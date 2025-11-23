@@ -14,7 +14,7 @@ This document provides a structured overview of all tracked forks of [kortix-ai/
 
 ---
 
-## ⭐ Active Forks (2-10 Stars, Updated in Last 6 Months)
+## ⭐ Active Forks (Updated in Last 6 Months)
 
 ### Logrui/suna
 - **Stars**: ⭐ 3
@@ -23,10 +23,12 @@ This document provides a structured overview of all tracked forks of [kortix-ai/
 - **Repository**: [github.com/Logrui/suna](https://github.com/Logrui/suna)
 - **Status**: 🟢 Actively Maintained as of 11/22/2025
 - **Notable Features**:
-  - Attempting recreation of Manus "Wide Research"
-  - Completed Implementations: Notifications System, 
-  - Added Ollama and LMStudio support for locally running models
   - Optimized for self hosting using Clouldflare Tunnel and Local Docker
+  -Enabled providers: Google, Anthropic, OpenAI, and Local LLMs
+  - Completed Feature Implementations: Slash Commands, Inbox/Notifications System, Enhanced Left Sidebar, Slash Commands, Auto Continue, Ollama, LMStudio, and Cloudflare tunnel optimizations
+  - WIP: Recreation of Manus "Wide Research"
+  - WIP: Added Ollama and LMStudio support for locally running models
+  - WIP: Restoration of Legacy Agent Creation Designer, Workflows/Playbooks, and Gemini cache optimiation
 - **Details**: [diffs/logrui-suna.md](./diffs/logrui-suna.md)
 
 ### r3vs/suna
@@ -92,16 +94,6 @@ This document provides a structured overview of all tracked forks of [kortix-ai/
 - **Repository**: [github.com/BurtTheCoder/suna](https://github.com/BurtTheCoder/suna)
 - **Status**: Active
 - **Details**: [diffs/burthecoder-suna.md](./diffs/burthecoder-suna.md)
-
----
-
-## 📊 Statistics Summary
-
-- **Total Forks Tracked**: 9
-- **Combined Stars**: 34+
-- **Active Forks (Last 6 Months)**: 9
-- **Forks with Unique Features**: 3
-- **Languages**: Primarily TypeScript
 
 ---
 
